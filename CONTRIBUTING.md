@@ -8,13 +8,13 @@ Thank you for your interest in the project.
 
 Found a mistake? Please open an issue on GitHub having the format "[CORRECT]".
 
-## Contribute a new solution
-
-Want to share your awesome solution? Please open an issue on GitHub having the format "[NEW]". Put your solution in the right folder, update the readme file and make a pull request.
-
 ## Request a new solution
 
 Don't see your problem? Please open an issue on GitHub having the format "[REQUEST]". Put your solution in the right folder, update the readme file and make a pull request.
+
+## Suggest an idea
+
+Do you have any idea for improvement? Please open an issue on GitHub having the format "[SUGGEST]".
 
 ## Community Contributions
 
