@@ -14,7 +14,7 @@ We have adopted a [Code of Conduct](./CODE_OF_CONDUCT.md) that we expect project
 
 ## About Me
 
-I am a undergraduate student pursuing Computer Science at BITS Pilani, India. I love Open Source and I contributed to Facebook's open source project React Native as a part of inaugral edition of MLH Fellowship. I am also actively contributing to AOSSIE primarly through Google Summer of Code for the past two years.
+I am a Software Engineer who enjoys Open-Source and love to help aspiring software engineers in their continuous growth.
 
 Twitter - [@itz_salemm](https://twitter.com/itz_salemm)
 
