@@ -1,17 +1,20 @@
 ---
 name: Solution request
-about: Suggest an idea for this project
+about: Suggest an problem to be solved for this project
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Is your solution request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**What is the number of the leetcode problem you want to be solved? Please also share the title.**
+Example:
+- Number: 1
+- Title: Two Sum
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Share a link to the Leetcode problem**
+Example:
+Link: https://leetcode.com/problems/two-sum/
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Addittional Information**
+A clear and concise additional information
