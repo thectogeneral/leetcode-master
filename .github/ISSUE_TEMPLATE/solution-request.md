@@ -7,11 +7,15 @@ assignees: ''
 
 ---
 
-**Is your solution request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Is there a solution you would like to see? What is the LeetCode number and Title.**
+Example:
+- Number: 1
+- Title: Two Sum
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Please share the LeetCode link**
+Example:
+- Link: https://leetcode.com/problems/two-sum/
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**What language do you want the solution**
+Example:
+- Language: JavaScript
