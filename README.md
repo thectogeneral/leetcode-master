@@ -24,6 +24,8 @@ This project is GNU licensed, as found in the [LICENSE](LICENSE) file.
 
 ### All LeetCode Solutions in One Place
 
-| #   | Title                                                                                 | Solution                                                                                                                                                                                                                                                                                                          | Difficulty | Category   |
-| --- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- |
-| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./Algorithms/cpp/SquaresOfASortedArray/squaresOfASortedArray.cpp), [Python](./Algorithms/python/SquaresOfASortedArray/squaresOfASortedArray.py), [Javascript](./Algorithms/javascript/SquaresOfASortedArray/squaresOfASortedArray.js), [Go](./Algorithms/go/SquaresOfASortedArray/squaresOfASortedArray.go) | Easy       | Algorithms |
+| #   | Title                                             | Solution                        | Difficulty | Category   |
+| --- | ------------------------------------------------- | ------------------------------- | ---------- | ---------- |
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](./Algorithms/go/twoSum.go) | Easy       | Algorithms |
+
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [C++](./Algorithms/cpp/squaresOfASortedArray.cpp), [Python](./Algorithms/python/squaresOfASortedArray.py), [Javascript](./Algorithms/javascript/squaresOfASortedArray.js), [Go](./Algorithms/go/squaresOfASortedArray.go) | Easy | Algorithms |

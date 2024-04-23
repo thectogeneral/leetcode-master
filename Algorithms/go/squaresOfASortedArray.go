@@ -6,7 +6,7 @@ import (
 )
 
 func sortedSquares(nums []int) []int {
-	// Map each element 'a' in slice 'nums' to its square and store the result in a new slice
+	// Map each element 'nums' in slice 'nums' to its square and store the result in a new slice
 	// Sort the new slice in non-decreasing order
 	// Return the sorted slice
 	squared := make([]int, len(nums))
